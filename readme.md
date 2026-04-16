@@ -61,7 +61,20 @@ Os dados tratados foram carregados no **Power BI** para construção de dashboar
 - Presença de **colaboradores 55+** em todos os cargos, reforçando a política de inclusão  
 - Diferença entre média e mediana salarial revela **assimetria** e concentração de rendimentos em cargos estratégicos
 
-- ([Imagens/Info1.png])
+<p align="center">
+  <img src="Imagens/info1.png" alt="Gráfico 1" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Imagens/info2.png" alt="Gráfico 2" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Imagens/info3.png" alt="Gráfico 3" width="600"/>
+</p>
+
+<p align="center">
+  <img src="Imagens/info4.png" alt="Gráfico 4" 
 
 ---
 
@@ -74,6 +87,8 @@ Os dados tratados foram carregados no **Power BI** para construção de dashboar
 ---
 
 ## 🔗 Acesse o Dashboard
+<p align="center">
+  <img src="Imagens/dashboard2.png" alt="Gráfico 4" 
 
 Confira o relatório completo e as visualizações interativas no Power BI:  
 
