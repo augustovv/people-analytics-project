@@ -59,7 +59,9 @@ Os dados tratados foram carregados no **Power BI** para construção de dashboar
 - Mulheres representam **40,6%** do quadro e têm **salários médios superiores** aos dos homens  
 - Tendência salarial **positiva com o tempo de empresa**, indicando valorização da experiência  
 - Presença de **colaboradores 55+** em todos os cargos, reforçando a política de inclusão  
-- Diferença entre média e mediana salarial revela **assimetria** e concentração de rendimentos em cargos estratégicos  
+- Diferença entre média e mediana salarial revela **assimetria** e concentração de rendimentos em cargos estratégicos
+
+- ([Imagens/Info1.png])
 
 ---
 
